@@ -13,6 +13,8 @@ image: /manu.png
 
 To show off how you can customize VuePress, the slides for my 5 Ways to Customize your VuePress site was made as a custom VuePress theme.
 
+Credits to [Victoria Bergquist Vuepress Theme](https://github.com/vicbergquist/5-ways-to-customize-vuepress)
+
 View on [CodeSandbox](https://codesandbox.io/s/5-ways-to-customize-your-vuepress-site-slides-bc415)
 
 ![Slide deck screenshot](/.vuepress/public/screenshot.png)
