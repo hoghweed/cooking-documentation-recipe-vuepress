@@ -1,7 +1,7 @@
 {
-  "name": "5-ways-to-customize-your-vuepress-site-slides",
+  "name": "cooking-documentation-recipe-vuepress",
   "version": "1.0.0",
-  "description": "Presentation slides made with VuePress and a custom theme.",
+  "description": "Vuepress as presentation slides, made with VuePress and a custom theme.",
   "author": "Victoria Bergquist",
   "license": "MIT",
   "scripts": {
@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vicbergquist/codesandbox-vuepress"
+    "url": "https://github.com/hoghweed/cooking-documentation-recipe-vuepress"
   },
   "devDependencies": {
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.14.1",
     "sass-loader": "^7.1.0",
-    "vuepress": "^1.0.2",
-    "vuepress-plugin-clean-urls": "^1.0.3"
+    "vuepress": "^1.5.0",
+    "vuepress-plugin-clean-urls": "^1.1.1"
   },
   "keywords": [],
   "dependencies": {}

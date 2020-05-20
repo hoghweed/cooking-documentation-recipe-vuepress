@@ -6,21 +6,21 @@
 // https://v1.vuepress.vuejs.org/config/
 
 module.exports = {
-  title: "5 Ways to Customize Your VuePress Site",
+  title: 'Cooking Documentation, What\'s the Recipe?',
   description:
-    "A talk by Victoria Bergquist about VuePress and how can you customize it to fit your needs?",
+    'A talk by Victoria Bergquist about VuePress and how can you customize it to fit your needs?',
   themeConfig: {
-    nav: [{ text: "Home", link: "/" }],
-    globalHashtags: ["vuejsfrankfurt", "vuepress", "vuejs"]
+    nav: [{ text: 'Home', link: '/' }],
+    globalHashtags: ['romajs', 'vuepress', 'vuejs']
   },
   markdown: {
     anchor: {
       permalink: false
     }
   },
-  plugins: { 
-    "clean-urls": {
-      normalSuffix: ""
+  plugins: {
+    'clean-urls': {
+      normalSuffix: ''
     }
   }
 };

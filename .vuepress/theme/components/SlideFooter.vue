@@ -7,7 +7,7 @@
       :href="$frontmatter.prev"
     >Previous</a>
     <div v-if="$page.path !== '/'">
-      <span class="hashtag">@vicbergquist</span>
+      <span class="hashtag">@codebrainr</span>
       <span class="hashtag" v-for="hashtag in hashtags">#{{ hashtag }}</span>
     </div>
     <div v-if="$frontmatter.event">

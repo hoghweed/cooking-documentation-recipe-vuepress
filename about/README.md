@@ -3,4 +3,4 @@ prev: /
 next: /slides/1
 ---
 
-<speaker-profile speaker="Victoria Bergquist 🦄" title="Frontend Developer @ Sanity" :activities="['Vue.js Frankfurt 😺', 'Vue Vixens DE 🦊']" img="/victoria.jpg" twitter="@vicbergquist"/>
+<speaker-profile speaker="Manuel Salvatore Martone 🦄" title="Tech Lead @ Konica Minolta Italy" :activities="['RomaJS 😺', 'Dev Inside 🦊']" img="/manu.png" twitter="@codebrainr"/>

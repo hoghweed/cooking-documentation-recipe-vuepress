@@ -1,12 +1,12 @@
 ---
 prev: /
 next: /about
-heading: "5 Ways to Customize Your VuePress Site"
-subheading:
-speaker: Victoria Bergquist
-event: Vue.js Frankfurt, 02.07.19
+heading: "Cooking Documentation, What's the Recipe?"
+subheading: 
+speaker: Manuel Salvatore Martone
+event: RomaJS remote talk, 20.05.20
 layout: intro
-image: /artist.png
+image: /manu.png
 ---
 
 # Slide deck made with VuePress
