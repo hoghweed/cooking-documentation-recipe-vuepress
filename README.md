@@ -13,7 +13,7 @@ image: /manu.png
 
 # Slide deck made with VuePress
 
-To show off how you can customize VuePress, the slides for my *Cooking Documentation, What's the Recipe?* was made as using custom VuePress theme.
+To show off how you can cook & prepare a good documentation with VuePress, the slides for my *Cooking Documentation, What's the Recipe?* was made as using custom VuePress theme.
 
 Credits to [Victoria Bergquist Vuepress Theme](https://github.com/vicbergquist/5-ways-to-customize-vuepress)
 
