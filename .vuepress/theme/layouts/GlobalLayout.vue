@@ -23,13 +23,13 @@
 <script>
 import Navigation from "../components/Navigation";
 import SlideFooter from "../components/SlideFooter";
-const TopicLayout = () => import("../layouts/TopicLayout");
+// const TopicLayout = () => import("../layouts/TopicLayout");
 const IntroLayout = () => import("../layouts/IntroLayout");
 export default {
   components: {
     Navigation,
     SlideFooter,
-    TopicLayout,
+    // TopicLayout,
     IntroLayout
   },
   data() {
